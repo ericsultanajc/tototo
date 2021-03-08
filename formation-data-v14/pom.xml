@@ -5,7 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>m2i.formation</groupId>
+<<<<<<< HEAD
 	<artifactId>formation-data-bis</artifactId>
+=======
+	<artifactId>formation-data</artifactId>
+>>>>>>> main
 	<version>1.0-SNAPSHOT</version>
 
 	<name>Formation v14</name>
